@@ -13,5 +13,5 @@ This repository contains both my comprehensive CV and condensed resume, professi
 ## Contact
 
 - **Email**: [yassinalilearning77076@gmail.com](mailto:yassinalilearning77076@gmail.com)  
-- **LinkedIn**: [Yassin Ali](https://www.linkedin.com/in/yassin-ali-10497a252/)
+- **LinkedIn**: [Yassin Ali](https://www.linkedin.com/in/YassenAli/)
 - **GitHub**: [YassenAli](https://github.com/YassenAli)

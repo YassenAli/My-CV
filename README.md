@@ -9,3 +9,9 @@ This repository contains both my comprehensive CV and condensed resume, professi
 ├── YassinAli_CV.pdf # Compiled CV (PDF version)
 └── YassinAli_Resume.pdf # Compiled resume (PDF version)
 ```
+
+## Contact
+
+- **Email**: [yassinalilearning77076@gmail.com](mailto:yassinalilearning77076@gmail.com)  
+- **LinkedIn**: [Yassin Ali](https://www.linkedin.com/in/yassin-ali-10497a252/)
+- **GitHub**: [YassenAli](https://github.com/YassenAli)
